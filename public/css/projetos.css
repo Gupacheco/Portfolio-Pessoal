@@ -1,0 +1,54 @@
+.titulo{
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.card{
+    margin-left: -100px;
+    margin-top: 80px;
+}
+
+.btn-ver{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+.btn-ver:hover{
+    background-color: white;
+    color: black;
+    transition-duration: 0.6s;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 1;
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 20px;
+}
+
+.projetos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 120px;
+}
+
+.projeto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
+    
+}
+
+/* .container{
+    color: black;
+} */
